@@ -6,4 +6,4 @@
 **Wichtige Informationen**
 *Namen die schnell zu sehen sind*
 [Link zu Google](https://googl.com)
-![Bildbeschreibung]('/home/dci-student/Bilder/Download.jpeg' )
+![Bildbeschreibung](Download.jpeg)
